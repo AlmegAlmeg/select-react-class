@@ -1,0 +1,42 @@
+[
+    {
+        "line": 12,
+        "company": "Egged",
+        "category": "north"
+    },
+    {
+        "line": 101,
+        "company": "Dan",
+        "category": "center"
+    },
+    {
+        "line": 21,
+        "company": "Egged",
+        "category": "north"
+    },
+    {
+        "line": 997,
+        "company": "Superbus",
+        "category": "south"
+    },
+    {
+        "line": 436,
+        "company": "Kavim",
+        "category": "center"
+    },
+    {
+        "line": 144,
+        "company": "Superbus",
+        "category": "north"
+    },
+    {
+        "line": 1,
+        "company": "Dan",
+        "category": "south"
+    },
+    {
+        "line": 802,
+        "company": "Egged",
+        "category": "south"
+    }
+]

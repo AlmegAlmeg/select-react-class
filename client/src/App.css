@@ -7,3 +7,10 @@
 .active{
     color: red;
 }
+
+.global-grid{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(3, 250px);
+    gap: 2rem;
+}

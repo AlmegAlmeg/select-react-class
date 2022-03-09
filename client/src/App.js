@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <NavBar />
-      <main className='container'>
+      <main className='container pt-3'>
         <Routes>
           <Route path='/' element={<Homepage />} />
           <Route path='/buses' element={<Buses />} />
